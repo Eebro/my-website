@@ -1,6 +1,6 @@
 # Ibrahim's Cave
-Welcome to my website! check out some of the projects I've been working on
-[LinkedIn](https://www.linkedin.com/in/ibrahim-almalki-82ba7a202/)
+*Welcome to my website! check out some of the projects I've been working on
+*[LinkedIn](https://www.linkedin.com/in/ibrahim-almalki-82ba7a202/)
 
 # Resume 
 View my resume 
